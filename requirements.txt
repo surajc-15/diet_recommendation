@@ -7,3 +7,4 @@ scipy
 joblib
 streamlit
 gunicorn
+dill
