@@ -6,3 +6,4 @@ seaborn
 scipy
 joblib
 streamlit
+gunicorn
